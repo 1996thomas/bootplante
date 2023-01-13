@@ -11,6 +11,10 @@
   /* outline: 2px blue solid; */
 }
 
+.a__panier{
+  opacity: 0;
+}
+
 #video {
   width: 100%;
   height: 100%;
